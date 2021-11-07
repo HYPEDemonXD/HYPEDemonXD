@@ -5,7 +5,7 @@
 - 📫 How to reach me discord usename : ｱ| DEMON 𒃵 ᴰᴱᵛ ᢁ#5483 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Demon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 <!---
